@@ -34,6 +34,8 @@ This project provisions a **three-tier architecture** on AWS using Terraform. It
 
 ## How to Use
 
+### Create resources
+
 ```bash
 $ terraform init
 $ terraform plan
