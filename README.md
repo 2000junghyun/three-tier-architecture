@@ -60,7 +60,6 @@ $ terraform apply
 $ terraform destroy
 ```
 
----
 
 ## Features / Main Logic
 
@@ -83,7 +82,6 @@ $ terraform destroy
   - **RDS** (managed) for real-world scenario
   - **EC2 MySQL** (self-managed) for advanced control and comparison
 
----
 
 ## Motivation / Expected Impact
 
